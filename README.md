@@ -5,6 +5,7 @@ Collection of native Rust driver for various AXI HDL cores.
 
 Currently contains drivers for the following HDL blocks:
 
+- [`axi-gpio`](./axi-gpio/) for the AMD [AXI GPIO](https://www.amd.com/en/products/adaptive-socs-and-fpgas/intellectual-property/axi_gpio.html)
 - [`axi-uartlite`](./axi-uartlite/) for the AMD [AXI UARTLITE](https://www.amd.com/es/products/adaptive-socs-and-fpgas/intellectual-property/axi_uartlite.html)
 - [`axi-uart16550`](./axi-uart16550/) for the AMD [AXI UART16550](https://www.amd.com/en/products/adaptive-socs-and-fpgas/intellectual-property/axi_uart16550.html)
 - [`axi-dma`](./axi-dma/) for the AMD [AXI DMA Controller](https://www.amd.com/en/products/adaptive-socs-and-fpgas/intellectual-property/axi_dma.html)
