@@ -4,8 +4,8 @@ version = "0.3.0"
 description = "LogiCORE AXI UART Lite v2.0 driver"
 rust-version = "1.87.0"
 edition = "2024"
-homepage = "https://github.com/us-irs/axi-hdl-rs"
-repository = "https://github.com/us-irs/axi-hdl-rs"
+homepage = "https://github.com/ustgt-irs/axi-hdl-rs"
+repository = "https://github.com/ustgt-irs/axi-hdl-rs"
 license = "MIT OR Apache-2.0"
 
 [dependencies]

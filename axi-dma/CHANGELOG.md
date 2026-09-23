@@ -12,5 +12,5 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 Initial release.
 
-[unreleased]: https://github.com/us-irs/axi-hdl-rs/compare/axi-dma-v0.1.0...HEAD
-[v0.1.0]: https://github.com/us-irs/axi-hdl-rs/tag/axi-dma-v0.1.0
+[unreleased]: https://github.com/ustgt-irs/axi-hdl-rs/compare/axi-dma-v0.1.0...HEAD
+[v0.1.0]: https://github.com/ustgt-irs/axi-hdl-rs/tag/axi-dma-v0.1.0

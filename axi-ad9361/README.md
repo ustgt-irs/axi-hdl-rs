@@ -1,6 +1,6 @@
 [![Crates.io](https://img.shields.io/crates/v/axi-ad9361)](https://crates.io/crates/axi-ad9361)
 [![docs.rs](https://img.shields.io/docsrs/axi-ad9361)](https://docs.rs/axi-ad9361)
-[![ci](https://github.com/us-irs/axi-hdl-rs/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/us-irs/axi-hdl-rs/actions/workflows/ci.yml)
+[![ci](https://github.com/ustgt-irs/axi-hdl-rs/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ustgt-irs/axi-hdl-rs/actions/workflows/ci.yml)
 
 AXI AD9361 driver
 ========

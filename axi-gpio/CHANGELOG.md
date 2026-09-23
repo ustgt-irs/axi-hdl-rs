@@ -8,4 +8,9 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 # [unreleased]
 
-Initial release
+# [v0.1.0] 2026-09-23
+
+Initial release.
+
+[unreleased]: https://github.com/ustgt-irs/axi-hdl-rs/compare/axi-gpio-v0.1.0...HEAD
+[v0.1.0]: https://github.com/ustgt-irs/axi-hdl-rs/tag/axi-gpio-v0.1.0
