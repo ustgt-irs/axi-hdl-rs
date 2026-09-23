@@ -38,8 +38,8 @@ Minor `Cargo.toml` tweaks
 
 Initial release.
 
-[unreleased]: https://github.com/us-irs/axi-hdl-rs/compare/axi-uartlite-v0.3.0...HEAD
-[v0.3.0]: https://github.com/us-irs/axi-hdl-rs/releases/tag/axi-uartlite-v0.3.0
+[unreleased]: https://github.com/ustgt-irs/axi-hdl-rs/compare/axi-uartlite-v0.3.0...HEAD
+[v0.3.0]: https://github.com/ustgt-irs/axi-hdl-rs/releases/tag/axi-uartlite-v0.3.0
 [v0.2.1]: https://egit.irs.uni-stuttgart.de/rust/axi-uartlite/compare/v0.2.0...v0.2.1
 [v0.2.0]: https://egit.irs.uni-stuttgart.de/rust/axi-uarglite/compare/v0.1.1...v0.2.0
 [v0.1.1]: https://egit.irs.uni-stuttgart.de/rust/axi-uartlite/compare/v0.1.0...v0.1.1

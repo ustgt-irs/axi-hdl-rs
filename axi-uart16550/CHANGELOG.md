@@ -46,9 +46,9 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 Initial release.
 
-[unreleased]: https://github.com/us-irs/axi-hdl-rs/compare/axi-uart16550-v0.3.1...HEAD
-[v0.3.1]: https://github.com/us-irs/axi-hdl-rs/compare/axi-uart16550-v0.3.0...axi-uart16550-v0.3.1
-[v0.3.0]: https://github.com/us-irs/axi-hdl-rs/releases/tag/axi-uart16550-v0.3.0
+[unreleased]: https://github.com/ustgt-irs/axi-hdl-rs/compare/axi-uart16550-v0.3.1...HEAD
+[v0.3.1]: https://github.com/ustgt-irs/axi-hdl-rs/compare/axi-uart16550-v0.3.0...axi-uart16550-v0.3.1
+[v0.3.0]: https://github.com/ustgt-irs/axi-hdl-rs/releases/tag/axi-uart16550-v0.3.0
 [v0.2.1]: https://egit.irs.uni-stuttgart.de/rust/axi-uart16550/compare/v0.2.0...v0.2.1
 [v0.2.0]: https://egit.irs.uni-stuttgart.de/rust/axi-uart16550/compare/v0.1.0...v0.2.0
 [v0.1.0]: https://egit.irs.uni-stuttgart.de/rust/axi-uart16550/tag/v0.1.0

@@ -1,6 +1,6 @@
 [![Crates.io](https://img.shields.io/crates/v/axi-gpio)](https://crates.io/crates/axi-gpio)
 [![docs.rs](https://img.shields.io/docsrs/axi-gpio)](https://docs.rs/axi-gpio)
-[![ci](https://github.com/us-irs/axi-hdl-rs/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/us-irs/axi-hdl-rs/actions/workflows/ci.yml)
+[![ci](https://github.com/ustgt-irs/axi-hdl-rs/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ustgt-irs/axi-hdl-rs/actions/workflows/ci.yml)
 
 AXI GPIO driver
 ========
