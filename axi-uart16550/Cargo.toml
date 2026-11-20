@@ -4,7 +4,6 @@ version = "0.3.1"
 description = "AXI UART16550 IP core driver"
 rust-version = "1.87.0"
 edition = "2024"
-homepage = "https://github.com/ustgt-irs/axi-hdl-rs"
 repository = "https://github.com/ustgt-irs/axi-hdl-rs"
 license = "MIT OR Apache-2.0"
 
@@ -22,7 +21,6 @@ embedded-hal-nb = "1"
 embedded-io = "0.7"
 embedded-io-async = "0.7"
 embassy-sync = "0.8"
-raw-buffer = "0.1"
 portable-atomic = { version = "1", optional = true }
 
 defmt = { version = "1", optional = true }
