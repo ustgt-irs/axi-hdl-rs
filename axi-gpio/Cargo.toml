@@ -4,7 +4,6 @@ version = "0.1.0"
 description = "AXI GPIO IP core driver"
 rust-version = "1.87.0"
 edition = "2024"
-homepage = "https://github.com/ustgt-irs/axi-hdl-rs"
 repository = "https://github.com/ustgt-irs/axi-hdl-rs"
 license = "MIT OR Apache-2.0"
 
@@ -14,7 +13,6 @@ bitbybit = "2"
 arbitrary-int = "2"
 static_assertions = "1"
 embedded-hal = "1"
-embedded-hal-async = "1"
 embassy-sync = "0.8"
 thiserror = { version = "2", default-features = false }
 portable-atomic = { version = "1", optional = true }

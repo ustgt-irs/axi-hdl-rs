@@ -61,7 +61,6 @@ dependencies = [
  "derive-mmio",
  "embassy-sync",
  "embedded-hal",
- "embedded-hal-async",
  "portable-atomic",
  "static_assertions",
  "thiserror",
@@ -86,7 +85,6 @@ dependencies = [
  "libm",
  "nb",
  "portable-atomic",
- "raw-buffer",
  "thiserror",
 ]
 
@@ -94,7 +92,6 @@ dependencies = [
 name = "axi-uartlite"
 version = "0.3.0"
 dependencies = [
- "arbitrary-int",
  "bitbybit",
  "critical-section",
  "defmt",
@@ -105,7 +102,6 @@ dependencies = [
  "embedded-io-async",
  "nb",
  "portable-atomic",
- "raw-buffer",
  "thiserror",
 ]
 
@@ -208,15 +204,6 @@ dependencies = [
  "futures-core",
  "futures-sink",
  "heapless",
-]
-
-[[package]]
-name = "embedded-dma"
-version = "0.2.0"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "994f7e5b5cb23521c22304927195f236813053eb9c065dd2226a32ba64695446"
-dependencies = [
- "stable_deref_trait",
 ]
 
 [[package]]
@@ -348,15 +335,6 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "1fbf4db142a473a8d80c26bbf18454ed458bf8d26c8219c331daecfdbd079001"
 dependencies = [
  "proc-macro2",
-]
-
-[[package]]
-name = "raw-buffer"
-version = "0.1.2"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "31268ed273761ae7f06160ab3e0d93c1d4761b65ebcd83c7f6f91b9f6d1a5eb0"
-dependencies = [
- "embedded-dma",
 ]
 
 [[package]]

@@ -2,7 +2,6 @@
 name = "axi-dma"
 version = "0.1.0"
 description = "AXI DMA IP core driver"
-homepage = "https://github.com/ustgt-irs/axi-hdl-rs"
 repository = "https://github.com/ustgt-irs/axi-hdl-rs"
 rust-version = "1.88.0"
 edition = "2024"

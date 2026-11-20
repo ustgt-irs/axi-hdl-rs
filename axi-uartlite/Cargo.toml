@@ -4,14 +4,12 @@ version = "0.3.0"
 description = "LogiCORE AXI UART Lite v2.0 driver"
 rust-version = "1.87.0"
 edition = "2024"
-homepage = "https://github.com/ustgt-irs/axi-hdl-rs"
 repository = "https://github.com/ustgt-irs/axi-hdl-rs"
 license = "MIT OR Apache-2.0"
 
 [dependencies]
 derive-mmio = "0.8"
 bitbybit = "2"
-arbitrary-int = "2"
 nb = "1"
 embedded-hal-nb = "1"
 embedded-io = "0.7"
@@ -19,7 +17,6 @@ embedded-io-async = "0.7"
 critical-section = "1"
 thiserror = { version = "2", default-features = false }
 embassy-sync = "0.8"
-raw-buffer = "0.1"
 portable-atomic = { version = "1", optional = true }
 
 defmt = { version = "1", optional = true }
